@@ -1,0 +1,9 @@
+
+# Enviroment variables
+.env
+
+# Distribution
+dist/
+
+# Packages
+node_modules/

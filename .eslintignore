@@ -1,0 +1,6 @@
+# Distribution 
+dist/
+
+# Packages
+node_modules/
+
